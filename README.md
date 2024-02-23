@@ -146,3 +146,17 @@ sudo kubeadm join ...
 # On the control plane node, verify all nodes in your cluster are ready. Note that it may take a few moments for all of the nodes to enter the READY state:
 
 kubectl get nodes
+--------------------------------------------------------------------------------------------------------------
+#Relevant Documentation
+#Namespaces
+#Lesson Reference
+#List namespaces in the cluster.
+
+kubectl get namespaces
+
+#Specify a namespace when listing other objects such as pods.
+
+kubectl get pods -n kube-system
+
+#Create a namespace.
+kubectl create namespace my-namespace
