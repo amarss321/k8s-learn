@@ -6,18 +6,18 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/168
 
 --------------------------------------------------------------------------------------------------------------
 
-#Namespaces
+# Namespaces
 
 
-#List namespaces in the cluster.
+# List namespaces in the cluster.
 
 kubectl get namespaces
 
-#Specify a namespace when listing other objects such as pods.
+# Specify a namespace when listing other objects such as pods.
 
 kubectl get pods -n kube-system
 
-#Create a namespace.
+# Create a namespace.
 
 kubectl create namespace my-namespace
 
