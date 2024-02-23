@@ -166,6 +166,9 @@ kubectl create namespace my-namespace
 
 
 ------------------------------------------------------------------------------
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1693337516325-devops-wb002%20-%20S03-L04%20Safely%20Draining%20a%20K8s%20Node.txt
+
 Lesson Reference
 
 # Begin by creating some objects. We will examine how these objects are affected by the drain process.
