@@ -159,4 +159,5 @@ kubectl get namespaces
 kubectl get pods -n kube-system
 
 #Create a namespace.
+
 kubectl create namespace my-namespace
