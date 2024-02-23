@@ -2,7 +2,7 @@
 
 
 # Building a Kubernetes Cluster
-# Lesson URL: https://learn.acloud.guru/course/certified-kubernetes-administrator/learn/b0d940db-32c3-45b9-ba6d-e2af218808d4/39c86a0f-105b-486f-acb9-0beeaaa7b568/watch
+# Lesson URL: https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1689779321464-1030%20-%20Building%20a%20Kubernetes%20Cluster%20Lesson%20Reference.txt
 
 # Relevant Documentation
 
