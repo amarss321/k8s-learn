@@ -38,3 +38,9 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/169
 # Upgrading k8s with kubeadm
 
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1689780090224-1030%20-%20Building%20a%20Kubernetes%20Cluster%20Lesson%20Reference.txt
+
+=========================================================================================================================
+
+# Backing Up and Restoring Etcd Cluster Data
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1596581276472-devops-wb002%20-%20S03-L06%20Backing%20Up%20and%20Restoring%20Etcd%20Cluster%20Data.pdf
