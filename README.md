@@ -1,4 +1,6 @@
 # k8s-learn
+# PDF 
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1607459695041-devops-wb002%20-%20Certified%20Kubernetes%20Administrator%20-%20All%20Sections%20Combined.pdf
 
 
 # Building a Kubernetes Cluster
