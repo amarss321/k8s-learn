@@ -50,3 +50,13 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/159
 
 https://labkeep-assets-production.s3.amazonaws.com/felbd95x0fobxsahoeyrdge576eo?response-content-disposition=inline%3B%20filename%3D%22devops-wb002_-_S03-LAB02_Backing_Up_and_Restoring_Kubernetes_Data_in_Etcd.png%22%3B%20filename%2A%3DUTF-8%27%27devops-wb002_-_S03-LAB02_Backing_Up_and_Restoring_Kubernetes_Data_in_Etcd.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVKPCGNLN6WL4Z7X2%2F20240223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240223T111513Z&X-Amz-Expires=3113&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICAMEUoOwdISPXBPCUAzNrcZ%2BZVZs%2BFz32FfhULWKTVbAiEA5IWygNEM8LK%2Fs8YNNCoE03UQMzgOteSRl3p6NvFaz1gqgwQIbxADGgwzNjYwODM0Njc5OTUiDHiUR5zoiJJGVMIBWyrgA%2Faz68vPTGu3TJVtZVKhgb8u%2BLzGslJomrtSlM5WLSXkyZJA7LRLadUifS5LbPDDt65XZ%2FD5LKYwPXcRPdqQwfQ49t9RQFVVv%2BjJ%2Fo%2FfYgOqxbGwG9f%2Fxj9yeHYBMeghdl1WgXfVsc49Ywm8q4cFPmvRWRvoQqM5Z%2B%2FrchsvzjOohrTIaIVsUynifTypOOHCFLHusCwwNPcRaK1vqKJ7cCmat2rLlaedS%2F1n1hgI9JKnCZvTvcpYnXoKr4RbRDFJU9C8%2F2LLpQ4eT76fpEfz0mDj4DnamkWcfJcn0WLf9eJUL4zX9w%2F3Kqd%2B%2Fa%2BQJ%2FD2MmaGs4FgzT5FLKxnW7nrCCtkteOjn6TRapx3WWZIRsam94jcLSi9HrRfNcrp2J8xwWHM5VhMipH41PJpTDqJ3RYyGmKzE4yZH3IZkAWs671pWUHrPLI6CHQsrdtNAmE87nenDSOE%2BaYjb20PJSlfcXlXjdBylu4BM9T0A8XOstyqzUOJFxZBoiYi5C8IdqSnzP5bFqKTZ83%2BtlVPLuSZjBusLFz02eZxIf4gfC6X2vFGhF21Ool5dCRoc%2B1oztDHsJvz%2FldeBXKG8LNj20pwtUC2TH9L8G%2B34B5tHopUauU3mIb6RO9SfcCUf9UpGyuzhDCL7OCuBjqlATNrHOskAL1jUzq021ufJmeASJ7iAjiJ5sdyCIg8xau4fOZN7boCafTArYLPloHSmhmWe0oLMmeF1SPFtxj7wAWYYQQWt5NpKZhHxC1Fsxl0uSeU6Qj9iuGt2DQ2ZokkQMDf3BQNLxefqQEsBcwe%2FyDoS%2B9PTGcS3DUXxHlk9QsSGLsosq02%2FZqfp5e1ihhwtKJERJ8%2FMxnZ8Gjfc2Pdh5ncl%2F1MkQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d39fadee1a36e2b43b6a65056d8a2993bf060ac340c82fb1929b5f5dfd0b8539
 
+
+=======================================================================================================================================================================
+# kubectl commands
+
+# PDF-link  
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1607460361396-devops-wb002%20-%20S04%20Kubernetes%20Object%20Management.pdf
+
+
+
