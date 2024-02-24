@@ -64,6 +64,10 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/160
 
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1596636230976-devops-wb002%20-%20S04-L03%20Managing%20k8s%20Role-Based%20Access%20Control%20%28RBAC%29.pdf
 
+----------------------------------------------------------------------------------------
+# Inspecting Pod Resource Usage
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1618614927526-1596636260278-devops-wb002%20-%20S04-L04%20Inspecting%20Pod%20Resource%20Usage.pdf
 
 
 
