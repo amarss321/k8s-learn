@@ -60,5 +60,11 @@ https://labkeep-assets-production.s3.amazonaws.com/felbd95x0fobxsahoeyrdge576eo?
 
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1607460361396-devops-wb002%20-%20S04%20Kubernetes%20Object%20Management.pdf
 
+# Managing k8s Role-Based Access Control (RBAC)
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1596636230976-devops-wb002%20-%20S04-L03%20Managing%20k8s%20Role-Based%20Access%20Control%20%28RBAC%29.pdf
+
+
+
 
 
