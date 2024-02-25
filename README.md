@@ -71,4 +71,9 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/161
 
 
 
+==================================================================================
+# Managing Application Configuration
 
+# ConfigMaps && Secrets
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1597437360824-devops-wb002%20-%20S05-L02%20Managing%20Application%20Configuration.pdf
