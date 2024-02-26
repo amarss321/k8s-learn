@@ -121,6 +121,14 @@ pdf -- https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.
 
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1598045591691-devops-wb002%20-%20S07-L01%20K8s%20Deployments%20Overview.pdf
 
+
+
+# Understanding K8s DNS
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1598046103047-devops-wb002%20-%20S08-L03%20Understanding%20K8s%20DNS.pdf
+
+
+
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1598045960267-devops-wb002%20-%20S07-L02%20Scaling%20Applications%20With%20Deployments.pdf
 
 # Managing Rolling Updates With Deployments
