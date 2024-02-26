@@ -103,4 +103,6 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/160
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1597437673008-devops-wb002%20-%20S06-L01%20Exploring%20k8s%20Scheduling.pdf
 
 ===================================================================================================================================
+# DaemonSets
 
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1597437708790-devops-wb002%20-%20S06-L02%20Using%20DaemonSets.pdf
