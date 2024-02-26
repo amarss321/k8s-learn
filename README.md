@@ -109,3 +109,14 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/159
 
 # Static Pods
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1597437741360-devops-wb002%20-%20S06-L03%20Using%20Static%20Pods.pdf
+
+
+
+
+
+
+# K8s Deployments Overview
+
+pdf -- https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1607461261620-devops-wb002%20-%20S07%20Deployments.pdf
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1598045591691-devops-wb002%20-%20S07-L01%20K8s%20Deployments%20Overview.pdf
