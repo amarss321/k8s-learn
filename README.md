@@ -77,3 +77,11 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/161
 # ConfigMaps && Secrets
 
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1597437360824-devops-wb002%20-%20S05-L02%20Managing%20Application%20Configuration.pdf
+
+
+====================================================================================================
+
+# Creating Multi-Container Pods
+
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1604087663409-devops-wb002%20-%20S05-L06%20Creating%20Multi-Container%20Pods.pdf
