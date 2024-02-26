@@ -92,3 +92,15 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/160
  # Init Containers
 
  https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1597437567672-devops-wb002%20-%20S05-L06%20Introducing%20Init%20Containers.pdf
+
+
+
+
+
+ -===============================================================
+ #  k8s Scheduling pods to particular worker-node 
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1597437673008-devops-wb002%20-%20S06-L01%20Exploring%20k8s%20Scheduling.pdf
+
+===================================================================================================================================
+
