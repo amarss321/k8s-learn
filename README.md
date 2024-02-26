@@ -106,3 +106,6 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/159
 # DaemonSets
 
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1597437708790-devops-wb002%20-%20S06-L02%20Using%20DaemonSets.pdf
+
+# Static Pods
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1597437741360-devops-wb002%20-%20S06-L03%20Using%20Static%20Pods.pdf
