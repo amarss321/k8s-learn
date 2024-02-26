@@ -135,3 +135,7 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/159
 
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1598046005723-devops-wb002%20-%20S07-L03%20Managing%20Rolling%20Updates%20With%20Deployments.pdf
 
+
+# NetworkPolicies
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1604087764609-devops-wb002%20-%20S08-L04%20Using%20NetworkPolicies.pdf
+
