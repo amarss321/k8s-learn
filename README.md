@@ -120,3 +120,10 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/159
 pdf -- https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1607461261620-devops-wb002%20-%20S07%20Deployments.pdf
 
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1598045591691-devops-wb002%20-%20S07-L01%20K8s%20Deployments%20Overview.pdf
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1598045960267-devops-wb002%20-%20S07-L02%20Scaling%20Applications%20With%20Deployments.pdf
+
+# Managing Rolling Updates With Deployments
+
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1598046005723-devops-wb002%20-%20S07-L03%20Managing%20Rolling%20Updates%20With%20Deployments.pdf
+
