@@ -85,3 +85,10 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/159
 
 
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1604087663409-devops-wb002%20-%20S05-L06%20Creating%20Multi-Container%20Pods.pdf
+
+
+=========================================================================================================
+
+ # Init Containers
+
+ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1597437567672-devops-wb002%20-%20S05-L06%20Introducing%20Init%20Containers.pdf
