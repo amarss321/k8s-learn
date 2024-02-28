@@ -139,3 +139,6 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/159
 # NetworkPolicies
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1604087764609-devops-wb002%20-%20S08-L04%20Using%20NetworkPolicies.pdf
 
+# K8s Services
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1604349679632-devops-wb002%20-%20S09-L02%20Using%20K8s%20Services.pdf
+
