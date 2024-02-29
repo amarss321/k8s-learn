@@ -142,3 +142,6 @@ https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/160
 # K8s Services
 https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1604349679632-devops-wb002%20-%20S09-L02%20Using%20K8s%20Services.pdf
 
+# K8s Volumes
+https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1604349985834-devops-wb002%20-%20S10-L02%20Using%20K8s%20Volumes.pdf
+
