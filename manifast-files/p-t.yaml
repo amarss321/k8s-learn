@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pt
+  labels:
+    app: pt
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: pt
+  template:
+    metadata:
+      labels:
+        app: pt
+    spec:
+      containers:
+      - name: pt
+        image: richardchesterwood/k8s-fleetman-position-tracker:release2-no-websockets
+        env:
+        - name: SPRING_PROFILES_ACTIVE
+          value: production-microservice
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: fleetman-pt
+spec:
+  selector:
+    app: pt
+  ports:
+    - name: http
+      port: 8080
+
